@@ -26,8 +26,8 @@ module.exports = async ({ api, event }) => {
       note: 'to avoid problems, enable periodic bot restarts, set the status to false if you want to disable auto restart function.'
     },
     accpetPending: {
-      status: false,
-      time: 10, // 10 minutes
+      status: true,
+      time: 1, // 10 minutes
       note: 'approve waiting messages after a certain time, set the status to false if you want to disable auto accept message request.'
     }
   }
