@@ -1,18 +1,18 @@
 {
-  "author": "ryuko",
+  "author": "nics",
   "developermode": false,
   "language": "en",
   "approval": false,
   "premium": false,
-  "BOTNAME": "ryuko",
-  "EMAIL": "sanjivfresh@gmail.com",
-  "PREFIX": "-",
+  "BOTNAME": "moistian confess wall",
+  "EMAIL": "nicsbot15@gmail.com",
+  "PREFIX": "/",
   "OPERATOR": [
     "",
-    "100091459940475"
+    "100082099374252"
   ],
   "ADMINBOT": [
-    ""
+    "100082099374252"
   ],
   "disabledcmds": [],
   "disabledevents": [],
